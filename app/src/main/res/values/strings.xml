@@ -1,0 +1,33 @@
+ <resources>
+    <string name="app_name">PunWars</string>
+
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_attack">Attack</string>
+    <string name="action_logout">Log Out</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_login">Login</string>
+
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_activity_signup">Signup</string>
+
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="cfmpass">confirm password</string>
+    <string name="email">email</string>
+
+    <string name="arrow">--></string>
+    <string name="pun_attack">Pun Attack</string>
+
+    <string name="mainact">PunWars</string>
+    <string name="title_activity_war_log">War Log</string>
+
+    <string name="no_attacks">Looks like you haven\'t attacked anyone.\nWreck havoc by clicking the rivals tab!</string>
+</resources>

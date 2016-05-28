@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:PunWars="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_attack"
+        android:icon="@drawable/whiteattack"
+        android:title="@string/action_attack"
+        PunWars:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_logout"
+        android:icon="@drawable/whitelogout"
+        android:title="@string/action_logout"
+        PunWars:showAsAction="ifRoom"/>
+
+    <!--item
+        android:id="@+id/menu_progress"
+        android:actionLayout="@layout/action_progress"
+        android:title="Progress"
+        android:menuCategory="container"
+        PunWars:showAsAction="always">
+    </item -->
+
+
+    <!-- Settings, should always be in the overflow >
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        PunWars:showAsAction="never" /-->
+</menu>
